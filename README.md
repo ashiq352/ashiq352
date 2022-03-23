@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ashiq Khan</h1>
 <h3 align="center">An enthusiastic full-stack web developer</h3>
 
-<h5> An aspiring full stack developer with a specialization in 💻 MERN stack. Keenly interested in problem-solving and making user-centric products, self-motivated and curious. Looking forward to honing my skills in a challenging work environment.</h5>
+<h3>An enthusiastic full-stack web developer 💻 with in-depth
+experience in implementing diverse tech stacks. A highly flexible
+team player who is passionate about building user-focused
+products. Looking forward to working as a developer and
+enhancing my technical skills while creating challenging products.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashiq352&label=Profile%20views&color=0e75b6&style=flat" alt="ashiq352" /> </p>
 
@@ -9,13 +13,13 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
+- 👨‍💼 [ My Portfolio](https://drive.google.com/file/d/1BQFWilpa-sTkxcl9bks07hlARyLAB_vR/view?usp=sharing)
+
 - 💬 Ask me about **react, javaScript, MERN stack**
 
 - 📫 How to reach me **khanashiq4494@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1BQFWilpa-sTkxcl9bks07hlARyLAB_vR/view?usp=sharing)
-
-- 👨‍💼 [ My Portfolio](https://drive.google.com/file/d/1BQFWilpa-sTkxcl9bks07hlARyLAB_vR/view?usp=sharing)
 
 - ⚡ Fun fact **I have a good sence of humor**
 
