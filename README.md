@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Ashiq Khan</h1>
-<h3 align="center">An enthusiastic full-stack web developer</h3>
+<h1 align="center">Hi 👋, I'm Ashiq </h1>
+<h3 align="center">Full-stack web developer</h3>
 
-<h3>An enthusiastic full-stack web developer 💻 with in-depth
+<h4>An enthusiastic full-stack web developer 💻 with in-depth
 experience in implementing diverse tech stacks. A highly flexible
 team player who is passionate about building user-focused
 products. Looking forward to working as a developer and
-enhancing my technical skills while creating challenging products.</h3>
+enhancing my technical skills while creating challenging products.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashiq352&label=Profile%20views&color=0e75b6&style=flat" alt="ashiq352" /> </p>
 
@@ -22,6 +22,8 @@ enhancing my technical skills while creating challenging products.</h3>
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1BQFWilpa-sTkxcl9bks07hlARyLAB_vR/view?usp=sharing)
 
 - ⚡ Fun fact **I have a good sence of humor**
+
+<img  src="https://user-images.githubusercontent.com/86410005/145585905-87465ff6-0e31-4252-963d-8f8810b4526f.gif"  />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
