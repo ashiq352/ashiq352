@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ashiq </h1>
-<h3 align="center">Full-stack web developer</h3>
+<h1 align="center">Hi There 👋, I'm Ashiq </h1>
+<h3 align="center">Full-stack web developer, intuitive problem-solver, Passionate about building user-centric products.</h3>
 
 <h4>An enthusiastic full-stack web developer 💻 with in-depth
 experience in implementing diverse tech stacks. A highly flexible
