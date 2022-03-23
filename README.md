@@ -11,6 +11,8 @@ enhancing my technical skills while creating challenging products.</h4>
 
 <p align="left"> <a href="https://twitter.com/_aashiq_khan_3" target="blank"><img src="https://img.shields.io/twitter/follow/_aashiq_khan_3?logo=twitter&style=for-the-badge" alt="_aashiq_khan_3" /></a> </p>
 
+<img  src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif"  />
+
 - 🌱 I’m currently learning **MERN Stack**
 
 - 👨‍💼 [ My Portfolio](https://drive.google.com/file/d/1BQFWilpa-sTkxcl9bks07hlARyLAB_vR/view?usp=sharing)
@@ -23,7 +25,7 @@ enhancing my technical skills while creating challenging products.</h4>
 
 - ⚡ Fun fact **I have a good sence of humor**
 
-<img  src="https://user-images.githubusercontent.com/86410005/145585905-87465ff6-0e31-4252-963d-8f8810b4526f.gif"  />
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
