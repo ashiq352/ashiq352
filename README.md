@@ -21,7 +21,7 @@ enhancing my technical skills while creating challenging products.</h4>
 
 - 📫 How to reach me **khanashiq4494@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1BQFWilpa-sTkxcl9bks07hlARyLAB_vR/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1c54g8oK-i9BnBam-SBkqoiGrGgdv9cfB/view?usp=sharing)
 
 - ⚡ Fun fact **I have a good sence of humor**
 
