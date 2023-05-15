@@ -15,7 +15,7 @@ enhancing my technical skills while creating challenging products.</h4>
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💼 [ My Portfolio](https://ashiqkhan-portfilio.netlify.app/#/)
+- 👨‍💼 [ My Portfolio](https://portfolio.ashiqkhan.in/)
 
 - 💬 Ask me about **react, javaScript, MERN stack**
 
